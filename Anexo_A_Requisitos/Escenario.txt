@@ -1,0 +1,8 @@
+# Escenario documentado
+EXP-01: consultas y visualizaciones de demanda BI sobre PetYLab_BI.
+Calentamiento: 1 repeticion; mediciones: 3; usar elapsed time.
+Mantener configuracion, filtros, caché y concurrencia constantes.
+No completar resultados sin haber ejecutado las pruebas.
+
+Criterios orientativos: igualdad de recuentos entre STG y hecho;
+cero IDs duplicados; sin referencias invalidas; KPIs coincidentes bajo los mismos filtros.
