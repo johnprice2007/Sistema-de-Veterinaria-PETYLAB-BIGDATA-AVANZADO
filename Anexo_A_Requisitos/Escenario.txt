@@ -1,4 +1,4 @@
-# Escenario documentado
+# Escenario documento
 EXP-01: consultas y visualizaciones de demanda BI sobre PetYLab_BI.
 Calentamiento: 1 repeticion; mediciones: 3; usar elapsed time.
 Mantener configuracion, filtros, caché y concurrencia constantes.
